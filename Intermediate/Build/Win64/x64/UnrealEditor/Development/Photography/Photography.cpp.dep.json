@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ewanm\\documents\\unreal projects\\photography\\source\\photography\\photography.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ewanm\\documents\\unreal projects\\photography\\intermediate\\build\\win64\\x64\\photographyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\ewanm\\documents\\unreal projects\\photography\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\photography\\definitions.photography.h",
+            "c:\\users\\ewanm\\documents\\unreal projects\\photography\\source\\photography\\photography.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Photography.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ewanm\Documents\Unreal Projects\Photography\Intermediate\Build\Win64\x64\PhotographyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\ewanm\Documents\Unreal Projects\Photography\Intermediate\Build\Win64\x64\UnrealEditor\Development\Photography\Photography.init.gen.cpp.obj"
+"C:\Users\ewanm\Documents\Unreal Projects\Photography\Intermediate\Build\Win64\x64\UnrealEditor\Development\Photography\PhotoWidget.gen.cpp.obj"
+"C:\Users\ewanm\Documents\Unreal Projects\Photography\Intermediate\Build\Win64\x64\UnrealEditor\Development\Photography\Photography.cpp.obj"
+"C:\Users\ewanm\Documents\Unreal Projects\Photography\Intermediate\Build\Win64\x64\UnrealEditor\Development\Photography\PhotoWidget.cpp.obj"
+"C:\Users\ewanm\Documents\Unreal Projects\Photography\Intermediate\Build\Win64\x64\UnrealEditor\Development\Photography\Default.rc2.res"
+/OUT:"C:\Users\ewanm\Documents\Unreal Projects\Photography\Intermediate\Build\Win64\x64\UnrealEditor\Development\Photography\UnrealEditor-Photography.lib"

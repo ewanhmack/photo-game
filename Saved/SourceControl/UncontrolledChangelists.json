@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/PCG/T_Height_Mask.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/FirstPerson/Blueprints/CameraViewfinder.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/PCG/L_PCGBiome.umap",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/FirstPerson/Blueprints/viewfinder.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/Main-Menu.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/Pause-Menu.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/FirstPerson/Input/Actions/IA_Pause.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/Photos-Menu.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/Main-Menu-World.umap",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/MWLandscapeAutoMaterial/Maps/LandscapeAutoMaterial_Desert_Example.umap",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/World-Options.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/Photos/Desert.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/Photos/HighresScreenshot00005.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/Photos/Island.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/Photos/Mountains.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/World-Options-Menu.umap",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/StarterContent/Audio/Starter_Background_Cue.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/PCG/Audio/Starter_Birds01.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/PCG/Audio/Starter_Wind05.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/PCG/Audio/Starter_Wind06.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/ImageWidget.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/PCG/PCG_Landscape.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/HighresScreenshot00005.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/HighresScreenshot00002.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/HighresScreenshot00008.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/Island.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/Mountains.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/Menus/Desert.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/StarterContent/Audio/Starter_Wind06.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/StarterContent/Audio/Starter_Wind05.uasset",
+				"C:/Users/ewanm/Documents/Unreal Projects/Photography/Content/StarterContent/Audio/Starter_Birds01.uasset"
+			]
+		}
+	]
+}

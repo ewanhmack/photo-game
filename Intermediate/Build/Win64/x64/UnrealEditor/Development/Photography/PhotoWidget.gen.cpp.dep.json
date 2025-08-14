@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ewanm\\documents\\unreal projects\\photography\\intermediate\\build\\win64\\unrealeditor\\inc\\photography\\uht\\photowidget.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ewanm\\documents\\unreal projects\\photography\\intermediate\\build\\win64\\x64\\photographyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\ewanm\\documents\\unreal projects\\photography\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\photography\\definitions.photography.h",
+            "c:\\users\\ewanm\\documents\\unreal projects\\photography\\source\\photography\\photowidget.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\blueprint\\userwidget.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\blueprint\\widgetchild.h",
+            "f:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgetchild.generated.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\objectsavecontext.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\cookenums.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\objectsaveoverride.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\slatewrappertypes.h",
+            "f:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\slatewrappertypes.generated.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\widget.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\fieldnotificationdeclaration.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\ifieldnotificationclassdescriptor.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\fieldnotification\\public\\inotifyfieldvaluechanged.h",
+            "f:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\fieldnotification\\uht\\inotifyfieldvaluechanged.generated.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\visual.h",
+            "f:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\visual.generated.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\slate\\widgettransform.h",
+            "f:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgettransform.generated.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\blueprint\\widgetnavigation.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\slatecore\\public\\types\\navigationmetadata.h",
+            "f:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgetnavigation.generated.h",
+            "f:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widget.generated.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\components\\namedslotinterface.h",
+            "f:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\namedslotinterface.generated.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\layout\\anchors.h",
+            "f:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\slate\\uht\\anchors.generated.h",
+            "f:\\epic games\\ue_5.4\\engine\\source\\runtime\\umg\\public\\animation\\widgetanimationevents.h",
+            "f:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\widgetanimationevents.generated.h",
+            "f:\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\umg\\uht\\userwidget.generated.h",
+            "c:\\users\\ewanm\\documents\\unreal projects\\photography\\intermediate\\build\\win64\\unrealeditor\\inc\\photography\\uht\\photowidget.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

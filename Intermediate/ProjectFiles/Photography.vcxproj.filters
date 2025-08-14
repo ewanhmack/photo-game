@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Photography.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Photography.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PhotographyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\MAWI Online Documentation.url" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Photography">
+      <UniqueIdentifier>{FF79CBD3-3548-32F7-9E11-DB9853E2F824}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Photography\Photography.Build.cs">
+      <Filter>Source\Photography</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Photography\Photography.cpp">
+      <Filter>Source\Photography</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Photography\Photography.h">
+      <Filter>Source\Photography</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Photography\PhotoWidget.cpp">
+      <Filter>Source\Photography</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Photography\PhotoWidget.h">
+      <Filter>Source\Photography</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Photography",
+			"Path": "..\\Source\\Photography.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PhotographyEditor",
+			"Path": "..\\Source\\PhotographyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
